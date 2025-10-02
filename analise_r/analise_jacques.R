@@ -1,4 +1,3 @@
-# atividade relatório dados
 
 library(ggplot2)
 library(dplyr)
